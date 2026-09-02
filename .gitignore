@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# Configuração local do preview, não vai para o servidor
+.claude/
+
+# Dependências, caso um dia entrem
+node_modules/
+
+# Arquivos originais pesados da marca ficam fora do deploy
+# (comente esta linha se quiser versionar os PNG originais)
+assets/img/originais/
