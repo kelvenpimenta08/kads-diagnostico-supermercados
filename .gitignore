@@ -11,3 +11,4 @@ node_modules/
 # Arquivos originais pesados da marca ficam fora do deploy
 # (comente esta linha se quiser versionar os PNG originais)
 assets/img/originais/
+marca/*.zip
